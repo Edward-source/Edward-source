@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/Edward-source?tab=achievements"><img src="https://github.com/Edward-source?tab=achievements" alt="Edward" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently working as Firmware Engineer in Training 
