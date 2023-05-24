@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-![Profile Banner](https://example.com/profile-banner.jpg)
+![Profile Banner](https://media.licdn.com/dms/image/D4D16AQELyF9iC5Kppw/profile-displaybackgroundimage-shrink_350_1400/0/1683033637433?e=1690416000&v=beta&t=LtkMBwOdsiwh89nFWq7oBeUJBp4hdjLbx1IXKExFGPQ)
 
 Hello there! 👋 I'm Edward, a firmware enthusiast with a passion for the exciting realms of IoT, ML, Automotive, and Telematics. Welcome to my GitHub profile!
 
