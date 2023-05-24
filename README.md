@@ -36,7 +36,7 @@ Feel free to explore my repositories, where I showcase my projects, experiments,
 
 ## Get in Touch
 
-I am always excited to connect with like-minded individuals, collaborate on projects, or engage in discussions about firmware, IoT, ML, Automotive, or Telematics. Don't hesitate to reach out to me through [email](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile) for any inquiries or opportunities.
+I am always excited to connect with like-minded individuals, collaborate on projects, or engage in discussions about firmware, IoT, ML, Automotive, or Telematics. Don't hesitate to reach out to me through [email](mailto:eddymalegale@gmail.com) or [LinkedIn](https://www.linkedin.com/in/edward-tladi/) for any inquiries or opportunities.
 
 Let's innovate and shape the future together!
 
