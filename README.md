@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 
 
-<img src="https://repository-images.githubusercontent.com/388208032/52131d4b-5f8a-4816-acc2-ef8e9869d2ed" alt="Profile Banner" width="89%" height="200px">
+<img src="https://repository-images.githubusercontent.com/388208032/52131d4b-5f8a-4816-acc2-ef8e9869d2ed" alt="Profile Banner" width="100%" height="200px">
 
 
 Hello there! 👋 I'm Edward, a firmware enthusiast with a passion for the exciting realms of IoT, ML, Automotive, and Telematics. Welcome to my GitHub profile!
