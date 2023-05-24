@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-![Profile Banner]([https://media.licdn.com/dms/image/D4D16AQELyF9iC5Kppw/profile-displaybackgroundimage-shrink_350_1400/0/1683033637433?e=1690416000&v=beta&t=LtkMBwOdsiwh89nFWq7oBeUJBp4hdjLbx1IXKExFGPQ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Flabassignments&psig=AOvVaw2SFV5eMYgzEKnMFKR5Bck3&ust=1685025452038000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjWwK2Xjv8CFQAAAAAdAAAAABAE))
+![Profile Banner](https://repository-images.githubusercontent.com/388208032/52131d4b-5f8a-4816-acc2-ef8e9869d2ed)
 
 Hello there! 👋 I'm Edward, a firmware enthusiast with a passion for the exciting realms of IoT, ML, Automotive, and Telematics. Welcome to my GitHub profile!
 
