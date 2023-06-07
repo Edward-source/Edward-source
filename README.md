@@ -20,9 +20,6 @@ I have hands-on experience in firmware development for various platforms, includ
 
 The world of IoT fascinates me. I believe in the power of connected devices to transform industries and enhance our lives. I have worked on diverse IoT projects, leveraging my expertise in communication protocols, sensor integration, and cloud connectivity to build smart and scalable solutions.
 
-### Machine Learning (ML)
-
-I am captivated by the potential of machine learning algorithms to extract meaningful insights from data. I have delved into the realm of ML, exploring techniques such as data preprocessing, feature engineering, and model development. Applying ML to firmware and IoT systems opens up exciting possibilities for intelligent decision-making and predictive analytics.
 
 ### Automotive and Telematics
 
