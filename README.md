@@ -1,41 +1,48 @@
-# Welcome to My Profile!
+# 👋 Hi, I'm Edward!
 
+Welcome to my GitHub profile! 🎉  
+I’m a passionate **[Software Developer | Embedded Systems Engineer | IT Educator]** with a strong interest in **[ AI, Blockchain, Embedded Systems, Software Development ]**.
 
-<img src="https://repository-images.githubusercontent.com/388208032/52131d4b-5f8a-4816-acc2-ef8e9869d2ed" alt="Profile Banner" width="100%" height="200px">
+---
 
+## 🚀 About Me
 
-Hello there! 👋 I'm Edward, a firmware enthusiast with a passion for the exciting realms of IoT, ML, Automotive, and Telematics. Welcome to my GitHub profile!
+- 🎓 **Education**: I hold a **National Diploma in Computer Systems Engineering**.  
+- 👩‍🏫 **Teaching**: I teach high school students IT, including **SQL, Java, and Python**, preparing them for success in exams and beyond.  
+- 🛠️ **Experience**: I have hands-on experience in **CAN Data Analysis**, developing Python tools for workflows, and serial communication.  
+- 💻 **Projects**: Currently working on a **Salon SaaS Software**, enabling salon owners to streamline their business.
 
-## About Me
+---
 
-I am a dedicated firmware engineer with expertise in developing cutting-edge solutions for connected devices. My journey in the field of IoT has allowed me to explore the intersection of hardware and software, enabling me to create intelligent and efficient systems.
+## 🛠️ Skills
 
-## What I Do
+- **Programming Languages**: Python, Java, SQL, C/C++
+- **Web Development**: HTML, CSS, JavaScript  
+- **Specialized Areas**: Embedded Systems, STM32, AI Systems, Blockchain  
+- **Tools**: Git, VSCode, MS Access, STM32CubeIDE
 
-### Firmware Development
+---
 
-I have hands-on experience in firmware development for various platforms, including microcontrollers, embedded systems, and IoT devices. I enjoy crafting efficient and reliable code that interfaces with hardware components, enabling seamless communication and control.
+## 🌟 Current Focus
 
-### Internet of Things (IoT)
+- Exploring **topics** like Computational Mathematics, Embedded Systems Design, and AI Systems.  
+- Building **customized solutions**, such as a **pizza business platform** and a feature-rich **salon software**.  
+- Revising **core concepts** in Python, Java, and Data Structures.
 
-The world of IoT fascinates me. I believe in the power of connected devices to transform industries and enhance our lives. I have worked on diverse IoT projects, leveraging my expertise in communication protocols, sensor integration, and cloud connectivity to build smart and scalable solutions.
+---
 
+## 📫 Let's Connect!
 
-### Automotive and Telematics
+- **GitHub**:  https://github.com/Edward-source
+- **LinkedIn**: https://www.linkedin.com/in/edward-tladi/
+- **Email**: eddymalegale@gmail.com
 
-The automotive industry is undergoing a remarkable transformation, with connectivity and telematics playing a vital role. I have a keen interest in this domain, with experience in developing firmware solutions for automotive applications. From vehicle communication protocols to driver assistance systems, I strive to contribute to the advancement of automotive technology.
+---
 
-## My Repositories
+### 💡 Fun Fact
 
-Feel free to explore my repositories, where I showcase my projects, experiments, and contributions. Here are a few notable ones:
+I’m passionate about merging the fields of **engineering and computer science** to solve real-world problems. Whether it’s creating tools for vehicle data parsing or designing interactive applications, I love **building systems that make life easier and more efficient**!
 
+---
 
-
-## Get in Touch
-
-I am always excited to connect with like-minded individuals, collaborate on projects, or engage in discussions about firmware, IoT, ML, Automotive, or Telematics. Don't hesitate to reach out to me through [email](mailto:eddymalegale@gmail.com) or [LinkedIn](https://www.linkedin.com/in/edward-tladi/) for any inquiries or opportunities.
-
-Let's innovate and shape the future together!
-
-_"The only way to do great work is to love what you do." - Steve Jobs_
-
+Feel free to explore my repositories and reach out for collaboration! 🌟
