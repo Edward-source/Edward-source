@@ -35,7 +35,7 @@ I’m a passionate **[Software Developer | Embedded Systems Engineer | IT Educat
 
 - **GitHub**:  https://github.com/Edward-source
 - **LinkedIn**: https://www.linkedin.com/in/edward-tladi/
-- **Email**: eddymalegale@gmail.com
+
 
 ---
 
